@@ -1,0 +1,12 @@
+com\training\school\repository\TeachingStaffRepository.class
+com\training\school\model\Transport.class
+com\training\school\model\NonTeachingStaff.class
+com\training\school\service\TeachingStaffService.class
+com\training\school\service\StudentService.class
+com\training\school\controller\StudentController.class
+com\training\school\model\TeachingStaff.class
+com\training\school\controller\WelcomeController.class
+com\training\school\SchoolApplication.class
+com\training\school\controller\TeachingStaffController.class
+com\training\school\model\Student.class
+com\training\school\repository\StudentRepository.class
